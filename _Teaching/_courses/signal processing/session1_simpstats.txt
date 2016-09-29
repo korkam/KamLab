@@ -1,9 +1,0 @@
-% load this matlab data file into the workspace
-% Below, fill in your code that would address each question:
-
-% 1. plot it
-% 2. what is the max value of ....
-% 3. what is the min value
-% 4. what is the mean value of
-% 5. what is the variance of
-% 6. what is the median of
