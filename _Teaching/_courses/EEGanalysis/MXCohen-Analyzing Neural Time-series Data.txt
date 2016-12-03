@@ -1,0 +1,3 @@
+http://www.mikexcohen.com/lectures.html
+http://www.mikexcohen.com/book/teachinglinks.html
+http://jallen.faculty.arizona.edu/psy696b_analyzing_neural_time_series_data
