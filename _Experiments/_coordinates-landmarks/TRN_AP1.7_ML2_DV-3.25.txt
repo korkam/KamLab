@@ -1,5 +1,0 @@
-REF: vgat-TRN_Selective optical drive of thalamic reticular nucleus generates thalamic bursts and cortical spindles
-
-The implant was attached to a custom-designed stereotaxic arm and lowered to the craniotomy. Thalamic
-stereotrodes were lowered to the following stereotaxic coordinates (M/L 1.9mm, A/P 1.7mm, D/V -3.5mm) which positioned the fiber optic at approximately the following coordinates (M/L
-2mm, A/P 1.7mm, D/V -3.25mm) and neocortical stereotrodes at (M/L 3.25mm, A/P 1.7mm, D/V -0.5mm)

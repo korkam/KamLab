@@ -1,1979 +1,0 @@
-LOCUS       pAAV-CamKIIa-mCh        6074 bp    DNA     circular     15-DEC-2017
-SOURCE
-  ORGANISM
-KEYWORDS
-COMMENT     This file is created by Vector NTI
-            http://www.invitrogen.com/
-            ORIGDB|GenBank
-            VNTDATE|499425211|
-            VNTDBDATE|499425211|
-            LSOWNER|
-            VNTNAME|pAAV-CamKII-mcherry-WPRE|
-            VNTAUTHORNAME|Charu Ramakrishnan|
-            VNTOAUTHORNAME|Feng Zhang|
-            Vector_NTI_Display_Data_(Do_Not_Edit!)
-            (SXF 
-             (CGexDoc "pAAV-CamKII-mcherry-WPRE" 0 6074 
-              (CDBMol 0 0 1 1 1 0 0 0 0 "" "" 0 0 0 0 (CObList) (CObList) (CObLi
-            
-            st) 
-               (CObList) -1 "") 
-              (CDocSetData 1 1 0 0 0 0 "MAIN" 1 1 1 1 0 0 1 1 0 1 10 10 42949672
-            
-            95 50 0 
-               1 0 (CHomObj 0 0 0 3 75) (CWordArray) (CWordArray) 
-               (CStringList "ApaLI" "AvaI" "BamHI" "ClaI" "EcoRI" "HindIII" "Nco
-            
-            I" 
-                "PstI" "SmaI" "XmaI" "MluI") (CStringList "atg" "gtg") 
-               (CStringList "taa" "tga" "tag") (CObList) 1 "{(0,1),2}" 0 0 "" 0 
-               4294967295 0 0 0 0 0 0 0 "MAIN" 0 0 30 0 
-               (CProteinMotifSearchObject 70 20 1 1 1 1 0 0 1 0 0 0 0 0)) 
-              (CMolPar 0 0 0 0 0 1 6074 0 0 0 0 0 0 0 0) (CStringList) (CStringL
-            
-            ist) 
-              (CObList) (COAPar 25 250 50 0 6 4 3 7) (COAPar 25 250 50 0 6 4 3 7
-            
-            ) 
-              (COAPar 25 250 50 0 6 4 3 7) 
-              (CObList 
-               #0=(CRSite (CStringList) "ApaLI" "gtgcac" 2 0 5 1527 0 2411 0 401
-            
-            3 0 
-                   4510 0 5756 0 0 "") 
-               #1=(CRSite (CStringList) "AvaI" "cycgrg" 2 0 9 41 0 52 0 1743 0 1
-            
-            935 0 
-                   2808 0 3113 0 3423 0 3434 0 3890 0 0 "") 
-               #2=(CRSite (CStringList) "BamHI" "ggatcc" 2 0 1 1464 0 0 "") 
-               #3=(CRSite (CStringList) "ClaI" "atcgat" 3 0 2 2197 0 2792 0 0 ""
-            
-            ) 
-               #4=(CRSite (CStringList) "EcoRI" "gaattc" 2 0 1 2178 0 0 "") 
-               #5=(CRSite (CStringList) "HindIII" "aagctt" 2 0 1 2190 0 0 "") 
-               #6=(CRSite (CStringList) "NcoI" "ccatgg" 2 0 3 187 0 1301 0 1900 
-            0 0 "") 
-               #7=(CRSite (CStringList) "PstI" "ctgcag" 6 0 4 7 0 1186 0 1822 0 
-            3476 0 
-                   0 "") 
-               #8=(CRSite (CStringList) "SmaI" "cccggg" 4 0 4 43 0 54 0 3425 0 3
-            
-            436 0 0 
-                   "") 
-               #9=(CRSite (CStringList) "XmaI" "cccggg" 2 0 4 41 0 52 0 3423 0 3
-            
-            434 0 0 
-                   "") #10=(CRSite (CStringList) "MluI" "acgcgt" 2 0 1 151 0 0 "
-            
-            ")) 
-              (CObList 
-               #11=(CFSignal (CObList) "L-ITR" 21 0 0 1 141 0 (CStringList) 
-                    (CStringList) 1 1 1 1 "1..141") 
-               #12=(CFSignal (CObList) "hGH polyA" 25 0 0 2819 3297 0 (CStringLi
-            
-            st) 
-                    (CStringList) 1 1 1 1 "2976..3454") 
-               #13=(CFSignal (CObList) "R-ITR" 21 0 0 3337 3477 0 (CStringList) 
-                    (CStringList) 1 1 1 1 "3494..3634") 
-               #14=(CFSignal (CObList) "f1 Origin" 33 0 0 3569 3875 0 (CStringLi
-            
-            st) 
-                    (CStringList) 1 1 1 1 "3726..4032") 
-               #15=(CFSignal (CObList) "AmpR" 21 0 0 4394 5251 0 (CStringList) 
-                    (CStringList) 1 1 1 1 "4551..5408") 
-               #16=(CFSignal (CObList) "pUC ori" 33 0 0 5402 6069 0 (CStringList
-            
-            ) 
-                    (CStringList) 1 1 1 1 "5559..6226") 
-               #17=(CFSignal (CObList) "WPRE" 21 0 0 2191 2799 0 (CStringList) 
-                    (CStringList) 1 1 1 1 "2348..2956") 
-               #18=(CFSignal (CObList) "a-CaMKII(1.3)" 21 0 0 156 1448 0 (CStrin
-            
-            gList) 
-                    (CStringList) 1 1 1 1 "156..1448") 
-               #19=(CFSignal (CObList) "mCherry" 61 0 0 1469 2176 0 (CStringList
-            
-            ) 
-                    (CStringList) 1 1 1 1 "4857..5564")) (CObList) (CObList) (CO
-            
-            bList) 
-              (CObList) (CObList) (CObList) 
-              (CTextView 0 
-               #20=(CGroupPar (CParagraph 0 (0 0) 1 2 0 0 180) 
-                    (CObjectList 
-                     #21=(CRefLinePar 
-                          (CLinePar (CParagraph 0 (0 0) 0 2 0 0 233) 
-                           "pAAV-CamKII-mcherry-WPRE" 2) 5 "" 0 4) 
-                     #22=(CFolderPar 
-                          (CGroupPar (CParagraph 1 (0 0) 1 1 0 0 178) 
-                           (CObjectList 
-                            #23=(CLinePar (CParagraph 0 (0 0) 1 2 1 0 180) 
-                                 "DNA 'pAAV-CamKII-mcherry-WPRE'" 1) 
-                            #24=(CLinePar (CParagraph 0 (0 0) 1 2 1 0 180) 
-                                 "Currently local object. Original author: Feng 
-            Zhang" 
-                                 1) 
-                            #25=(CLinePar (CParagraph 0 (0 0) 1 2 1 0 180) 
-                                 "Created: 11/20/08 09:13AM" 1) 
-                            #26=(CLinePar (CParagraph 0 (0 0) 1 2 1 0 180) 
-                                 "Last Modified: 11/20/08 09:13AM" 1) 
-                            #27=(CLinePar (CParagraph 0 (0 0) 1 2 1 0 180) 
-                                 "length: 6074 bp" 1) 
-                            #28=(CLinePar (CParagraph 0 (0 0) 1 2 1 0 180) 
-                                 "storage type: Basic" 1) 
-                            #29=(CLinePar (CParagraph 0 (0 0) 1 2 1 0 180) 
-                                 "form: Circular" 1))) "General Description") 
-                     #30=(CFolderPar 
-                          (CGroupPar (CParagraph 2 (0 0) 1 1 0 0 178) 
-                           (CObjectList 
-                            #31=(CLinePar (CParagraph 0 (0 0) 1 2 1 0 180) 
-                                 "Original Source Database: GenBank" 1) 
-                            #32=(CLinePar (CParagraph 0 (0 0) 1 2 1 0 180) 
-                                 "Modification Date in the Original DB: 23-AUG-2
-            
-            007" 1))) 
-                          "Standard Fields") 
-                     #33=(CFolderPar 
-                          (CGroupPar (CParagraph 5 (0 0) 1 1 0 0 178) 
-                           (CObjectList 
-                            #34=(CLinePar (CParagraph 0 (0 0) 1 2 1 0 180) "Feng
-            
-             Zhang" 
-                                 1))) "Original Author") 
-                     #35=(CRefLinePar 
-                          (CLinePar (CParagraph 0 (0 0) 0 2 0 0 233) "Comments" 
-            2) 1 "" 
-                          0 0) 
-                     #36=(CFolderPar 
-                          (CGroupPar (CParagraph 8 (0 0) 1 2 0 0 178) (CObjectLi
-            
-            st)) 
-                          "Annotations") 
-                     #37=(CFolderPar 
-                          (CGroupPar (CParagraph 12 (6 0) 1 1 0 0 178) 
-                           (CObjectList 
-                            #38=(CFolderPar 
-                                 (CGroupPar (CParagraph 21 (7 21 0) 1 1 1 0 178)
-            
-             
-                                  (CObjectList 
-                                   #39=(CFolderPar 
-                                        (CGroupPar 
-                                         (CParagraph 1 (3 #11# 0) 1 2 2 0 194) 
-                                         (CObjectList 
-                                          #40=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Start: 1     End: 141 " 1) 
-                                          #41=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Original Location Description:" 
-            1) 
-                                          #42=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "   1..141" 1))) "L-ITR") 
-                                   #43=(CFolderPar 
-                                        (CGroupPar 
-                                         (CParagraph 156 (3 #18# 0) 1 2 2 0 194)
-            
-             
-                                         (CObjectList 
-                                          #44=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Start: 156   End: 1448" 1) 
-                                          #45=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Original Location Description:" 
-            1) 
-                                          #46=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "   156..1448" 1))) "a-CaMKII(1.3
-            
-            )") 
-                                   #47=(CFolderPar 
-                                        (CGroupPar 
-                                         (CParagraph 2191 (3 #17# 0) 1 2 2 0 194
-            
-            ) 
-                                         (CObjectList 
-                                          #48=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Start: 2191  End: 2799" 1) 
-                                          #49=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Original Location Description:" 
-            1) 
-                                          #50=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "   2348..2956" 1))) "WPRE") 
-                                   #51=(CFolderPar 
-                                        (CGroupPar 
-                                         (CParagraph 3337 (3 #13# 0) 1 2 2 0 194
-            
-            ) 
-                                         (CObjectList 
-                                          #52=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Start: 3337  End: 3477" 1) 
-                                          #53=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Original Location Description:" 
-            1) 
-                                          #54=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "   3494..3634" 1))) "R-ITR") 
-                                   #55=(CFolderPar 
-                                        (CGroupPar 
-                                         (CParagraph 4394 (3 #15# 0) 1 2 2 0 194
-            
-            ) 
-                                         (CObjectList 
-                                          #56=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Start: 4394  End: 5251" 1) 
-                                          #57=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Original Location Description:" 
-            1) 
-                                          #58=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "   4551..5408" 1))) "AmpR"))) 
-                                 "Misc. Feature (5 total)") 
-                            #59=(CFolderPar 
-                                 (CGroupPar (CParagraph 25 (7 25 0) 1 1 1 0 178)
-            
-             
-                                  (CObjectList 
-                                   #60=(CFolderPar 
-                                        (CGroupPar 
-                                         (CParagraph 2819 (3 #12# 0) 1 2 2 0 194
-            
-            ) 
-                                         (CObjectList 
-                                          #61=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Start: 2819  End: 3297" 1) 
-                                          #62=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Original Location Description:" 
-            1) 
-                                          #63=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "   2976..3454" 1))) "hGH polyA")
-            
-            )) 
-                                 "PolyA Signal (1 total)") 
-                            #64=(CFolderPar 
-                                 (CGroupPar (CParagraph 33 (7 33 0) 1 1 1 0 178)
-            
-             
-                                  (CObjectList 
-                                   #65=(CFolderPar 
-                                        (CGroupPar 
-                                         (CParagraph 3569 (3 #14# 0) 1 2 2 0 194
-            
-            ) 
-                                         (CObjectList 
-                                          #66=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Start: 3569  End: 3875" 1) 
-                                          #67=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Original Location Description:" 
-            1) 
-                                          #68=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "   3726..4032" 1))) "f1 Origin")
-            
-             
-                                   #69=(CFolderPar 
-                                        (CGroupPar 
-                                         (CParagraph 5402 (3 #16# 0) 1 2 2 0 194
-            
-            ) 
-                                         (CObjectList 
-                                          #70=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Start: 5402  End: 6069" 1) 
-                                          #71=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Original Location Description:" 
-            1) 
-                                          #72=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "   5559..6226" 1))) "pUC ori")))
-            
-             
-                                 "Replication Origin (2 total)") 
-                            #73=(CFolderPar 
-                                 (CGroupPar (CParagraph 61 (7 61 0) 1 1 1 0 178)
-            
-             
-                                  (CObjectList 
-                                   #74=(CFolderPar 
-                                        (CGroupPar 
-                                         (CParagraph 1469 (3 #19# 0) 1 2 2 0 194
-            
-            ) 
-                                         (CObjectList 
-                                          #75=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Start: 1469  End: 2176" 1) 
-                                          #76=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "Original Location Description:" 
-            1) 
-                                          #77=(CLinePar 
-                                               (CParagraph 0 (0 0) 1 2 3 0 180) 
-                                               "   4857..5564" 1))) "mCherry")))
-            
-             
-                                 "Exon (1 total)"))) "Feature Map") 
-                     #78=(CFolderPar 
-                          (CGroupPar (CParagraph 13 (0 0) 1 1 0 0 178) 
-                           (CObjectList 
-                            #79=(CRSFolderPar 
-                                 (CFolderPar 
-                                  (CGroupPar (CParagraph 21232816 (8 0) 1 1 1 0 
-            178) 
-                                   (CObjectList 
-                                    #80=(CGroupPar 
-                                         (CParagraph 0 (10 #0# 0) 1 2 2 0 180) 
-                                         (CObjectList 
-                                          #81=(CLinePar 
-                                               (CParagraph 0 (1 #0# 1) 1 2 2 0 1
-            
-            91) 
-                                               " N1: 1527 " 1) 
-                                          #82=(CLinePar 
-                                               (CParagraph 0 (1 #0# 2) 1 2 2 0 1
-            
-            91) 
-                                               " N2: 2411 " 1) 
-                                          #83=(CLinePar 
-                                               (CParagraph 0 (1 #0# 3) 1 2 2 0 1
-            
-            91) 
-                                               " N3: 4013 " 1) 
-                                          #84=(CLinePar 
-                                               (CParagraph 0 (1 #0# 4) 1 2 2 0 1
-            
-            91) 
-                                               " N4: 4510 " 1) 
-                                          #85=(CLinePar 
-                                               (CParagraph 0 (1 #0# 5) 1 2 2 0 1
-            
-            91) 
-                                               " N5: 5756 " 1))))) "ApaLI: 5 sit
-            
-            es") 1 
-                                 5 "GTGCAC" "CACGTG") 
-                            #86=(CRSFolderPar 
-                                 (CFolderPar 
-                                  (CGroupPar (CParagraph 21232784 (8 0) 1 1 1 0 
-            178) 
-                                   (CObjectList 
-                                    #87=(CGroupPar 
-                                         (CParagraph 0 (10 #1# 0) 1 2 2 0 180) 
-                                         (CObjectList 
-                                          #88=(CLinePar 
-                                               (CParagraph 0 (1 #1# 1) 1 2 2 0 1
-            
-            91) 
-                                               " N1: 41 " 1) 
-                                          #89=(CLinePar 
-                                               (CParagraph 0 (1 #1# 2) 1 2 2 0 1
-            
-            91) 
-                                               " N2: 52 " 1) 
-                                          #90=(CLinePar 
-                                               (CParagraph 0 (1 #1# 3) 1 2 2 0 1
-            
-            91) 
-                                               " N3: 1743 " 1) 
-                                          #91=(CLinePar 
-                                               (CParagraph 0 (1 #1# 4) 1 2 2 0 1
-            
-            91) 
-                                               " N4: 1935 " 1) 
-                                          #92=(CLinePar 
-                                               (CParagraph 0 (1 #1# 5) 1 2 2 0 1
-            
-            91) 
-                                               " N5: 2808 " 1) 
-                                          #93=(CLinePar 
-                                               (CParagraph 0 (1 #1# 6) 1 2 2 0 1
-            
-            91) 
-                                               " N6: 3113 " 1) 
-                                          #94=(CLinePar 
-                                               (CParagraph 0 (1 #1# 7) 1 2 2 0 1
-            
-            91) 
-                                               " N7: 3423 " 1) 
-                                          #95=(CLinePar 
-                                               (CParagraph 0 (1 #1# 8) 1 2 2 0 1
-            
-            91) 
-                                               " N8: 3434 " 1) 
-                                          #96=(CLinePar 
-                                               (CParagraph 0 (1 #1# 9) 1 2 2 0 1
-            
-            91) 
-                                               " N9: 3890 " 1))))) "AvaI: 9 site
-            
-            s") 1 5 
-                                 "CYCGRG" "GRGCYC") 
-                            #97=(CRSFolderPar 
-                                 (CFolderPar 
-                                  (CGroupPar (CParagraph 21232752 (8 0) 1 1 1 0 
-            178) 
-                                   (CObjectList 
-                                    #98=(CGroupPar 
-                                         (CParagraph 0 (10 #2# 0) 1 2 2 0 180) 
-                                         (CObjectList 
-                                          #99=(CLinePar 
-                                               (CParagraph 0 (1 #2# 1) 1 2 2 0 1
-            
-            91) 
-                                               " N1: 1464 " 1))))) "BamHI: 1 sit
-            
-            e") 1 5 
-                                 "GGATCC" "CCTAGG") 
-                            #100=(CRSFolderPar 
-                                  (CFolderPar 
-                                   (CGroupPar (CParagraph 21232720 (8 0) 1 1 1 0
-            
-             178) 
-                                    (CObjectList 
-                                     #101=(CGroupPar 
-                                           (CParagraph 0 (10 #3# 0) 1 2 2 0 180)
-            
-             
-                                           (CObjectList 
-                                            #102=(CLinePar 
-                                                  (CParagraph 0 (1 #3# 1) 1 2 2 
-            0 191) 
-                                                  " N1: 2197 " 1) 
-                                            #103=(CLinePar 
-                                                  (CParagraph 0 (1 #3# 2) 1 2 2 
-            0 191) 
-                                                  " N2: 2792 " 1))))) "ClaI: 2 s
-            
-            ites") 
-                                  2 4 "ATCGAT" "TAGCTA") 
-                            #104=(CRSFolderPar 
-                                  (CFolderPar 
-                                   (CGroupPar (CParagraph 21232688 (8 0) 1 1 1 0
-            
-             178) 
-                                    (CObjectList 
-                                     #105=(CGroupPar 
-                                           (CParagraph 0 (10 #4# 0) 1 2 2 0 180)
-            
-             
-                                           (CObjectList 
-                                            #106=(CLinePar 
-                                                  (CParagraph 0 (1 #4# 1) 1 2 2 
-            0 191) 
-                                                  " N1: 2178 " 1))))) "EcoRI: 1 
-            site") 
-                                  1 5 "GAATTC" "CTTAAG") 
-                            #107=(CRSFolderPar 
-                                  (CFolderPar 
-                                   (CGroupPar (CParagraph 21232656 (8 0) 1 1 1 0
-            
-             178) 
-                                    (CObjectList 
-                                     #108=(CGroupPar 
-                                           (CParagraph 0 (10 #5# 0) 1 2 2 0 180)
-            
-             
-                                           (CObjectList 
-                                            #109=(CLinePar 
-                                                  (CParagraph 0 (1 #5# 1) 1 2 2 
-            0 191) 
-                                                  " N1: 2190 " 1))))) "HindIII: 
-            1 site") 
-                                  1 5 "AAGCTT" "TTCGAA") 
-                            #110=(CRSFolderPar 
-                                  (CFolderPar 
-                                   (CGroupPar (CParagraph 21233248 (8 0) 1 1 1 0
-            
-             178) 
-                                    (CObjectList 
-                                     #111=(CGroupPar 
-                                           (CParagraph 0 (10 #10# 0) 1 2 2 0 180
-            
-            ) 
-                                           (CObjectList 
-                                            #112=(CLinePar 
-                                                  (CParagraph 0 (1 #10# 1) 1 2 2
-            
-             0 191) 
-                                                  " N1: 151 " 1))))) "MluI: 1 si
-            
-            te") 1 
-                                  5 "ACGCGT" "TGCGCA") 
-                            #113=(CRSFolderPar 
-                                  (CFolderPar 
-                                   (CGroupPar (CParagraph 30114328 (8 0) 1 1 1 0
-            
-             178) 
-                                    (CObjectList 
-                                     #114=(CGroupPar 
-                                           (CParagraph 0 (10 #6# 0) 1 2 2 0 180)
-            
-             
-                                           (CObjectList 
-                                            #115=(CLinePar 
-                                                  (CParagraph 0 (1 #6# 1) 1 2 2 
-            0 191) 
-                                                  " N1: 187 " 1) 
-                                            #116=(CLinePar 
-                                                  (CParagraph 0 (1 #6# 2) 1 2 2 
-            0 191) 
-                                                  " N2: 1301 " 1) 
-                                            #117=(CLinePar 
-                                                  (CParagraph 0 (1 #6# 3) 1 2 2 
-            0 191) 
-                                                  " N3: 1900 " 1))))) "NcoI: 3 s
-            
-            ites") 
-                                  1 5 "CCATGG" "GGTACC") 
-                            #118=(CRSFolderPar 
-                                  (CFolderPar 
-                                   (CGroupPar (CParagraph 30114296 (8 0) 1 1 1 0
-            
-             178) 
-                                    (CObjectList 
-                                     #119=(CGroupPar 
-                                           (CParagraph 0 (10 #7# 0) 1 2 2 0 180)
-            
-             
-                                           (CObjectList 
-                                            #120=(CLinePar 
-                                                  (CParagraph 0 (1 #7# 1) 1 2 2 
-            0 191) 
-                                                  " N1: 7 " 1) 
-                                            #121=(CLinePar 
-                                                  (CParagraph 0 (1 #7# 2) 1 2 2 
-            0 191) 
-                                                  " N2: 1186 " 1) 
-                                            #122=(CLinePar 
-                                                  (CParagraph 0 (1 #7# 3) 1 2 2 
-            0 191) 
-                                                  " N3: 1822 " 1) 
-                                            #123=(CLinePar 
-                                                  (CParagraph 0 (1 #7# 4) 1 2 2 
-            0 191) 
-                                                  " N4: 3476 " 1))))) "PstI: 4 s
-            
-            ites") 
-                                  5 1 "CTGCAG" "GACGTC") 
-                            #124=(CRSFolderPar 
-                                  (CFolderPar 
-                                   (CGroupPar (CParagraph 30114264 (8 0) 1 1 1 0
-            
-             178) 
-                                    (CObjectList 
-                                     #125=(CGroupPar 
-                                           (CParagraph 0 (10 #8# 0) 1 2 2 0 180)
-            
-             
-                                           (CObjectList 
-                                            #126=(CLinePar 
-                                                  (CParagraph 0 (1 #8# 1) 1 2 2 
-            0 191) 
-                                                  " N1: 43 " 1) 
-                                            #127=(CLinePar 
-                                                  (CParagraph 0 (1 #8# 2) 1 2 2 
-            0 191) 
-                                                  " N2: 54 " 1) 
-                                            #128=(CLinePar 
-                                                  (CParagraph 0 (1 #8# 3) 1 2 2 
-            0 191) 
-                                                  " N3: 3425 " 1) 
-                                            #129=(CLinePar 
-                                                  (CParagraph 0 (1 #8# 4) 1 2 2 
-            0 191) 
-                                                  " N4: 3436 " 1))))) "SmaI: 4 s
-            
-            ites") 
-                                  3 3 "CCCGGG" "GGGCCC") 
-                            #130=(CRSFolderPar 
-                                  (CFolderPar 
-                                   (CGroupPar (CParagraph 30114232 (8 0) 1 1 1 0
-            
-             178) 
-                                    (CObjectList 
-                                     #131=(CGroupPar 
-                                           (CParagraph 0 (10 #9# 0) 1 2 2 0 180)
-            
-             
-                                           (CObjectList 
-                                            #132=(CLinePar 
-                                                  (CParagraph 0 (1 #9# 1) 1 2 2 
-            0 191) 
-                                                  " N1: 41 " 1) 
-                                            #133=(CLinePar 
-                                                  (CParagraph 0 (1 #9# 2) 1 2 2 
-            0 191) 
-                                                  " N2: 52 " 1) 
-                                            #134=(CLinePar 
-                                                  (CParagraph 0 (1 #9# 3) 1 2 2 
-            0 191) 
-                                                  " N3: 3423 " 1) 
-                                            #135=(CLinePar 
-                                                  (CParagraph 0 (1 #9# 4) 1 2 2 
-            0 191) 
-                                                  " N4: 3434 " 1))))) "XmaI: 4 s
-            
-            ites") 
-                                  1 5 "CCCGGG" "GGGCCC"))) 
-                          "Restriction/Methylation Map")))) 
-              (CGraphView 
-               (CWStyleSheet 
-                (CObjectList 
-                 #136=(CWidgetStyle "RSite Label" 1 (LOGPEN 0 0 13408563) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 18 "Georgia") 0.555556
-            
-             0 1 5 
-                       "@N (@S)" 0) 
-                 #137=(CWidgetStyle "Signal Label" 1 (LOGPEN 0 0 0) 1 0 1 
-                       (LOGFONT 0 0 0 0 700 0 0 0 0 3 2 1 34 "Arial") 0.666667 0
-            
-             1 1 
-                       "@N" 0) 
-                 #138=(CWidgetStyle "Molecule Label 2" 0 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 18 "Georgia") 0.555556
-            
-             0 1 16 
-                       "@L bp" 0) 
-                 #139=(CWidgetStyle "Molecule Label 1" 0 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 34 "Verdana") 0.833333
-            
-             0 1 1 
-                       "@N" 0) 
-                 #140=(CWidgetStyle "Shape 3" 1 (LOGPEN 0 0 3355545) 1 1 
-                       (LOGBRUSH 0 6724095 0) 0 0 1 (LOGSHAPE 9 1 0.8 1.8 0)) 
-                 #141=(CWidgetStyle "Shape 1" 1 (LOGPEN 0 0 6723840) 1 1 
-                       (LOGBRUSH 0 10079334 0) 0 0 1 (LOGSHAPE 9 1 0.8 1.8 0)) 
-                 #142=(CWidgetStyle "Axis" 1 (LOGPEN 0 0 10079436) 2 1 
-                       (LOGBRUSH 0 13434879 0) 0 0 1 (LOGSHAPE 10 1 0 0 0)) 
-                 #143=(CWidgetStyle "Line 2" 1 (LOGPEN 0 0 6723840) 8 0 0 0 1 
-                       (LOGSHAPE 1 1.9 0 0 0)) 
-                 #144=(CWidgetStyle "RSite" 1 (LOGPEN 0 0 10053171) 8 0 0 0 1 
-                       (LOGSHAPE 1 1.9 0 0 0)) 
-                 #145=(CWidgetStyle "Short Signal" 1 (LOGPEN 0 0 13395507) 10 0 
-            0 0 1 
-                       (LOGSHAPE 1 1.9 0 0 0)) 
-                 #146=(CWidgetStyle "Uniq RSite Label" 1 (LOGPEN 0 0 153) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 18 "Georgia") 0.555556
-            
-             128 1 
-                       5 "@N (@S)" 0) 
-                 #147=(CWidgetStyle "Vanilla" 1 (LOGPEN 0 0 0) 1 1 
-                       (LOGBRUSH 0 16777215 0) 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 7 48 2 18 "Times New Roman")
-            
-             0.8 0 
-                       1 2 "?" 0) 
-                 #148=(CWidgetStyle "Mark 1" 0 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 2 7 48 2 2 "Windings") 0.7 0 1
-            
-             2 "?" 
-                       0) 
-                 #149=(CWidgetStyle "Motif Label" 1 (LOGPEN 0 0 16744512) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 34 "Arial") 0.611111 8
-            
-            388608 
-                       1 65535 "@N (@H)" 0) 
-                 #150=(CWidgetStyle "Fragment Label 2" 1 (LOGPEN 0 0 0) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 49 "Courier New") 1.05
-            
-             0 1 48 
-                       "@F bp (molecule @L bp)" 0) 
-                 #151=(CWidgetStyle "Fragment Label 1" 1 (LOGPEN 0 0 0) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 34 "Arial") 0.91 0 1 1
-            
-             
-                       "Fragment of @N" 0) 
-                 #152=(CWidgetStyle "Shape 4" 1 (LOGPEN 0 0 0) 1 1 
-                       (LOGBRUSH 2 8388608 5) 0 0 0) 
-                 #153=(CWidgetStyle "Shape 2" 1 (LOGPEN 0 0 0) 1 1 (LOGBRUSH 0 1
-            
-            28 0) 0 
-                       0 0) 
-                 #154=(CWidgetStyle "Shape 0" 1 (LOGPEN 0 0 0) 1 1 (LOGBRUSH 0 0
-            
-             0) 0 0 
-                       0) 
-                 #155=(CWidgetStyle "ORF" 1 (LOGPEN 0 0 16384) 8 0 0 0 1 
-                       (LOGSHAPE 7 0.2 3.41182 2.86186 0.609808)) 
-                 #156=(CWidgetStyle "Line 4" 1 (LOGPEN 0 0 32768) 8 0 0 0 0) 
-                 #157=(CWidgetStyle "Line 3" 1 (LOGPEN 0 0 16711680) 8 0 0 0 0) 
-                 #158=(CWidgetStyle "Line 1" 1 (LOGPEN 0 0 16711680) 1 0 0 0 0) 
-                 #159=(CWidgetStyle "Short Promoter" 1 (LOGPEN 0 0 128) 6 0 0 0 
-            0) 
-                 #160=(CWidgetStyle "Motif" 1 (LOGPEN 0 0 0) 1 0 0 0 0) 
-                 #161=(CWidgetStyle "Line 0" 1 (LOGPEN 0 0 0) 8 0 0 0 0) 
-                 #162=(CWidgetStyle "Void" 0 0 0 0 0) 
-                 #163=(CWidgetStyle "General Label" 1 (LOGPEN 0 0 0) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 18 "Times New Roman") 
-            0.91 0 
-                       1 3 "@T @N " 0) 
-                 #164=(CWidgetStyle "Position" 1 (LOGPEN 0 0 0) 1 0 0 0 0) 
-                 #165=(CWidgetStyle "Annotation" 0 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 18 "Times New Roman") 
-            0.91 0 
-                       0 0) 
-                 #166=(CWidgetStyle "Position Label" 1 (LOGPEN 0 0 8388608) 1 0 
-            1 
-                       (LOGFONT 0 0 0 0 400 0 1 0 0 3 2 1 34 "Arial") 0.63 83886
-            
-            08 1 1 
-                       "@N" 0) 
-                 #167=(CWidgetStyle "Range" 1 (LOGPEN 0 0 0) 1 1 
-                       (LOGBRUSH 0 16777215 0) 0 0 0) 
-                 #168=(CWidgetStyle "Range Label" 1 (LOGPEN 0 0 8388608) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 1 0 0 3 2 1 34 "Arial") 0.63 83886
-            
-            08 1 1 
-                       "@N" 0) 
-                 #169=(CWidgetStyle "ORF Label" 1 (LOGPEN 0 0 49216) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 18 "Times New Roman") 
-                       0.611111 0 1 65535 "@N" 0) 
-                 #170=(CWidgetStyle "CDS Label" 1 (LOGPEN 0 0 4227264) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 34 "Arial") 0.555556 2
-            
-            55 1 1 
-                       "@N" 0) 
-                 #171=(CWidgetStyle "Shape 5" 1 (LOGPEN 0 0 0) 3 1 
-                       (LOGBRUSH 0 16777113 0) 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 7 48 2 50 "Arial") 0.9 0 0 1
-            
-             
-                       (LOGSHAPE 9 1 0.8 1.8 0)) 
-                 #172=(CWidgetStyle "CDS" 1 (LOGPEN 0 0 0) 1 1 (LOGBRUSH 2 39423
-            
-             3) 0 0 
-                       1 (LOGSHAPE 9 1 0.8 1.8 0)) 
-                 #173=(CWidgetStyle "Label 2" 1 (LOGPEN 0 0 4227264) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 34 "Arial") 0.944444 8
-            
-            388608 
-                       1 1 "@N" 0) 
-                 #174=(CWidgetStyle "Label 3" 1 (LOGPEN 0 0 8421376) 1 0 1 
-                       (LOGFONT 0 0 0 0 700 255 0 0 0 3 2 1 34 "Arial") 0.833333
-            
-             255 1 
-                       5 "@N (@S)" 0) 
-                 #175=(CWidgetStyle "Label 4" 1 (LOGPEN 0 0 8437824) 1 0 1 
-                       (LOGFONT 0 0 0 0 400 0 0 0 0 3 2 1 34 "Arial") 0.722222 0
-            
-             1 5 
-                       "@N (@S)" 0)) 0.164644 1.74233 0.164644 2.53336 
-                (70 (CShapeMapEntry 0 "Unique RSite" 1 "Uniq RSite Label") 67 
-                 (CShapeMapEntry 0 "ORF" 0 "ORF Label")) 40.0378 40.0378 39 39 0
-            
-            .1 
-                -6105) 1 1 0 1 1 
-               (mapper: 19.0525 -21.4103 40.0378 40.0378 0.01 10 -1 6074 6074 1 
-            0 0) 
-               #176=(CGroupWidget (CWidget 0 (0 0) 1 2 0 0 Nil -1294 100) 
-                     (CObjectList 
-                      #177=(CGroupWidget (CWidget 1 (0 0) 1 2 0 0 Nil -876 100) 
-                            (CObjectList 
-                             #178=(CAxis 
-                                   (CWideLine 
-                                    (CWidget 0 (0 0) 1 2 0 0 #142# 21769924 0) 
-                                    (LOGPEN 0 0 10079436) 2 (LOGBRUSH 0 13434879
-            
-             0) 1 
-                                    6.27522 6.27322 1 0.0214037) 0.103279) 
-                             #179=(CLabel 
-                                   (CWidget 1001 (0 0) 1 2 0 0 #139# 21795740 10
-            
-            0) 
-                                   (LOGPEN 0 0 13408563) 1 
-                                   (LOGFONT 58 22 0 0 400 0 0 0 0 3 2 1 34 "Verd
-            
-            ana") 
-                                   1.74233 0.833333 0 "pAAV-CamKII-mcherry-WPRE"
-            
-             "@N" 1 
-                                   0 0.871165 0 -10 16.1597 1.47361 Nil) 
-                             #180=(CLabel 
-                                   (CWidget 1002 (0 0) 1 2 0 0 #138# 4063648 100
-            
-            ) 
-                                   (LOGPEN 0 0 13408563) 1 
-                                   (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 18 "Geor
-            
-            gia") 
-                                   1.74233 0.555556 0 "6074 bp" "@L bp" 16 0 -0.
-            
-            871165 
-                                   0 -10.8 3.37181 0.949103 Nil)) (CObjectList))
-            
-             
-                      #181=(CGroupWidget (CWidget 10 (6 0) 1 2 0 0 Nil -1155 100
-            
-            ) 
-                            (CObjectList 
-                             #182=(CGroupWidget 
-                                   (CWidget 21 (7 21 0) 1 2 0 0 Nil -1364 100) 
-                                   (CObjectList 
-                                    #183=(CWideArrow 
-                                          (CWideLine 
-                                           (CWidget 0 (3 #11# 0) 1 2 0 0 #141# 0
-            
-             100) 
-                                           (LOGPEN 0 0 6723840) 1 
-                                           (LOGBRUSH 0 10079334 0) 1 6.12756 6.2
-            
-            7319 1 
-                                           0.082322) 0.8 1.8 0) 
-                                    #184=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #137# 4063792
-            
-             100) 
-                                          (LOGPEN 0 0 0) 1 
-                                          (LOGFONT 46 17 0 0 700 0 0 0 0 3 2 1 3
-            
-            4 
-                                           "Arial") 1.74233 0.666667 0 "L-ITR" "
-            
-            @N" 1 
-                                          11.2075 6.96932 0 -10 2.29783 1.12394 
-            #183#) 
-                                    #185=(CWideArrow 
-                                          (CWideLine 
-                                           (CWidget 0 (3 #13# 0) 1 2 0 0 #141# 0
-            
-             100) 
-                                           (LOGPEN 0 0 6723840) 1 
-                                           (LOGBRUSH 0 10079334 0) 1 2.68216 2.8
-            
-            2779 1 
-                                           0.082322) 0.8 1.8 0) 
-                                    #186=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #137# 2207944
-            
-            4 100) 
-                                          (LOGPEN 0 0 0) 1 
-                                          (LOGFONT 46 17 0 0 700 0 0 0 0 3 2 1 3
-            
-            4 
-                                           "Arial") 1.74233 0.666667 0 "R-ITR" "
-            
-            @N" 1 
-                                          -6.66684 -15.681 0 -10 2.42271 1.12394
-            
-             #185#) 
-                                    #187=(CWideArrow 
-                                          (CWideLine 
-                                           (CWidget 0 (3 #15# 0) 1 2 0 0 #141# 0
-            
-             100) 
-                                           (LOGPEN 0 0 6723840) 1 
-                                           (LOGBRUSH 0 10079334 0) 1 0.849989 1.
-            
-            73613 1 
-                                           0.082322) 0.8 1.8 0) 
-                                    #188=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #137# 2136082
-            
-            8 100) 
-                                          (LOGPEN 0 0 0) 1 
-                                          (LOGFONT 46 17 0 0 700 0 0 0 0 3 2 1 3
-            
-            4 
-                                           "Arial") 1.74233 0.666667 0 "AmpR" "@
-            
-            N" 1 
-                                          -13.023 5.22699 0 -10 2.59755 1.12394 
-            #187#) 
-                                    #189=(CWideArrow 
-                                          (CWideLine 
-                                           (CWidget 0 (3 #17# 0) 1 2 0 0 #141# 0
-            
-             100) 
-                                           (LOGPEN 0 0 6723840) 1 
-                                           (LOGBRUSH 0 10079334 0) 1 3.3824 4.01
-            
-            137 1 
-                                           0.082322) 0.8 1.8 0) 
-                                    #190=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #137# 2126780
-            
-            4 100) 
-                                          (LOGPEN 0 0 0) 1 
-                                          (LOGFONT 46 17 0 0 700 0 0 0 0 3 2 1 3
-            
-            4 
-                                           "Arial") 1.74233 0.666667 0 "WPRE" "@
-            
-            N" 1 
-                                          8.7954 -22.6503 0 -10 2.67247 1.12394 
-            #189#) 
-                                    #191=(CWideArrow 
-                                          (CWideLine 
-                                           (CWidget 0 (3 #18# 0) 1 2 0 0 #141# 0
-            
-             100) 
-                                           (LOGPEN 0 0 6723840) 1 
-                                           (LOGBRUSH 0 10079334 0) 1 4.7777 6.11
-            
-            31 1 
-                                           0.082322) 0.8 1.8 0) 
-                                    #192=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #137# 4063624
-            
-             100) 
-                                          (LOGPEN 0 0 0) 1 
-                                          (LOGFONT 46 17 0 0 700 0 0 0 0 3 2 1 3
-            
-            4 
-                                           "Arial") 1.74233 0.666667 0 "a-CaMKII
-            
-            (1.3)" 
-                                          "@N" 1 14.5653 1.74233 0 -10 5.71959 1
-            
-            .12394 
-                                          #191#)) (CObjectList)) 
-                             #193=(CGroupWidget 
-                                   (CWidget 25 (7 25 0) 1 2 0 0 Nil -1573 100) 
-                                   (CObjectList 
-                                    #194=(CLine 
-                                          (CWidget 0 (3 #12# 0) 1 2 0 0 #156# 51
-            
-            8 100) 
-                                          (LOGPEN 0 6 32768) 8 0.835356 2.86807 
-            3.36277) 
-                                    #195=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #137# 4063792
-            
-             100) 
-                                          (LOGPEN 0 0 0) 1 
-                                          (LOGFONT 46 17 0 0 700 0 0 0 0 3 2 1 3
-            
-            4 
-                                           "Arial") 1.74233 0.666667 0 "hGH poly
-            
-            A" "@N" 
-                                          1 -3.65092 -19.1656 0 -10 4.5457 1.123
-            
-            94 
-                                          #194#)) (CObjectList)) 
-                             #196=(CGroupWidget 
-                                   (CWidget 33 (7 33 0) 1 2 0 0 Nil -1992 100) 
-                                   (CObjectList 
-                                    #197=(CWideArrow 
-                                          (CWideLine 
-                                           (CWidget 0 (3 #14# 0) 1 2 0 0 #140# 0
-            
-             100) 
-                                           (LOGPEN 0 0 3355545) 1 
-                                           (LOGBRUSH 0 6724095 0) 1 2.27111 2.58
-            
-            818 1 
-                                           0.082322) 0.8 1.8 0) 
-                                    #198=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #137# 2122362
-            
-            8 100) 
-                                          (LOGPEN 0 0 0) 1 
-                                          (LOGFONT 46 17 0 0 700 0 0 0 0 3 2 1 3
-            
-            4 
-                                           "Arial") 1.74233 0.666667 0 "f1 Origi
-            
-            n" "@N" 
-                                          1 -13.6245 -1.74233 0 -10 3.67153 1.12
-            
-            394 
-                                          #197#) 
-                                    #199=(CWideArrow 
-                                          (CWideLine 
-                                           (CWidget 0 (3 #16# 0) 1 2 0 0 #140# 0
-            
-             100) 
-                                           (LOGPEN 0 0 3355545) 1 
-                                           (LOGBRUSH 0 6724095 0) 1 0.00516397 0
-            
-            .69507 
-                                           1 0.082322) 0.8 1.8 0) 
-                                    #200=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #137# 2136040
-            
-            4 100) 
-                                          (LOGPEN 0 0 0) 1 
-                                          (LOGFONT 46 17 0 0 700 0 0 0 0 3 2 1 3
-            
-            4 
-                                           "Arial") 1.74233 0.666667 0 "pUC ori"
-            
-             "@N" 1 
-                                          -8.0416 10.454 0 -10 3.172 1.12394 #19
-            
-            9#)) 
-                                   (CObjectList)) 
-                             #201=(CGroupWidget 
-                                   (CWidget 61 (7 61 0) 1 2 0 0 Nil -1504 100) 
-                                   (CObjectList 
-                                    #202=(CWideArrow 
-                                          (CWideLine 
-                                           (CWidget 0 (3 #19# 0) 1 2 0 0 #140# 0
-            
-             100) 
-                                           (LOGPEN 0 0 3355545) 1 
-                                           (LOGBRUSH 0 6724095 0) 1 4.02583 4.75
-            
-            704 1 
-                                           0.082322) 0.8 1.8 0) 
-                                    #203=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #137# 2119323
-            
-            6 100) 
-                                          (LOGPEN 0 0 0) 1 
-                                          (LOGFONT 46 17 0 0 700 0 0 0 0 3 2 1 3
-            
-            4 
-                                           "Arial") 1.74233 0.666667 0 "mCherry"
-            
-             "@N" 1 
-                                          13.7813 -10.454 0 -10 3.5966 1.12394 #
-            
-            202#)) 
-                                   (CObjectList))) (CObjectList)) 
-                      #204=(CGroupWidget (CWidget 11 (8 0) 1 2 0 0 Nil -1225 100
-            
-            ) 
-                            (CObjectList 
-                             #205=(CGroupWidget 
-                                   (CWidget 1 (10 #2# 0) 1 2 0 0 Nil -387 100) 
-                                   (CObjectList 
-                                    #206=(CScratch 
-                                          (CWidget 1 (1 #2# 1) 1 2 0 0 #144# 406
-            
-            3824 
-                                           100) (LOGPEN 0 6 10053171) 8 1 4.7622
-            
-            1 1.9 
-                                          0.082322 1) 
-                                    #207=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #146# 2146200
-            
-            4 100) 
-                                          (LOGPEN 0 0 153) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 128 
-                                          "{\\i Bam}HI (1464)" "@N (@S)" 5 14.78
-            
-            5 
-                                          -3.48466 0 -10 5.59471 0.949103 #206#)
-            
-            ) 
-                                   (CObjectList)) 
-                             #208=(CGroupWidget 
-                                   (CWidget 1 (10 #4# 0) 1 2 0 0 Nil -806 100) 
-                                   (CObjectList 
-                                    #209=(CScratch 
-                                          (CWidget 1 (1 #4# 1) 1 2 0 0 #144# 406
-            
-            3688 
-                                           100) (LOGPEN 0 6 10053171) 8 1 4.0247
-            
-            9 1.9 
-                                          0.082322 1) 
-                                    #210=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #146# 327704 
-            100) 
-                                          (LOGPEN 0 0 153) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 128 
-                                          "{\\i Eco}RI (2178)" "@N (@S)" 5 12.71
-            
-            26 
-                                          -15.681 0 -10 5.295 0.949103 #209#)) 
-                                   (CObjectList)) 
-                             #211=(CGroupWidget 
-                                   (CWidget 1 (10 #5# 0) 1 2 0 0 Nil -1783 100) 
-                                   (CObjectList 
-                                    #212=(CScratch 
-                                          (CWidget 1 (1 #5# 1) 1 2 0 0 #144# 0 1
-            
-            00) 
-                                          (LOGPEN 0 6 10053171) 8 1 4.0124 1.9 0
-            
-            .082322 
-                                          1) 
-                                    #213=(CLabel (CWidget 0 (0 0) 1 2 0 0 #146# 
-            0 100) 
-                                          (LOGPEN 0 0 153) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 128 
-                                          "{\\i Hin}dIII (2190)" "@N (@S)" 5 13.
-            
-            0116 
-                                          -17.4233 0 -10 5.91941 0.949103 #212#)
-            
-            ) 
-                                   (CObjectList)) 
-                             #214=(CGroupWidget 
-                                   (CWidget 1 (10 #10# 0) 1 2 0 0 Nil -178 100) 
-                                   (CObjectList 
-                                    #215=(CScratch 
-                                          (CWidget 1 (1 #10# 1) 1 2 0 0 #144# 22
-            
-            017824 
-                                           100) (LOGPEN 0 6 10053171) 8 1 6.1182
-            
-            7 1.9 
-                                          0.082322 1) 
-                                    #216=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #146# 2138225
-            
-            6 100) 
-                                          (LOGPEN 0 0 153) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 128 
-                                          "{\\i Mlu}I (151)" "@N (@S)" 5 12.9257
-            
-             
-                                          5.22699 0 -10 4.17106 0.949103 #215#))
-            
-             
-                                   (CObjectList)) 
-                             #217=(CGroupWidget 
-                                   (CWidget 2 (10 #3# 0) 1 2 0 0 Nil -736 100) 
-                                   (CObjectList 
-                                    #218=(CScratch 
-                                          (CWidget 1 (1 #3# 1) 1 2 0 0 #144# 220
-            
-            67580 
-                                           100) (LOGPEN 0 6 10053171) 8 1 4.0051
-            
-            7 1.9 
-                                          0.082322 1) 
-                                    #219=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2146407
-            
-            2 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Cla}I (2197)" "@N (@S)" 5 12.327
-            
-            9 
-                                          -19.1656 0 -10 4.5457 0.949103 #218#) 
-                                    #220=(CScratch 
-                                          (CWidget 2 (1 #3# 2) 1 2 0 0 #144# 211
-            
-            88028 
-                                           100) (LOGPEN 0 6 10053171) 8 1 3.3906
-            
-            6 1.9 
-                                          0.082322 1) 
-                                    #221=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 4063808
-            
-             100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Cla}I (2792)" "@N (@S)" 5 6.3197
-            
-             
-                                          -24.3926 0 -10 4.59566 0.949103 #220#)
-            
-            ) 
-                                   (CObjectList)) 
-                             #222=(CGroupWidget 
-                                   (CWidget 3 (10 #6# 0) 1 2 0 0 Nil -1155 100) 
-                                   (CObjectList 
-                                    #223=(CScratch 
-                                          (CWidget 1 (1 #6# 1) 1 2 0 0 #144# 0 1
-            
-            00) 
-                                          (LOGPEN 0 6 10053171) 8 1 6.08109 1.9 
-                                          0.082322 1) 
-                                    #224=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2081903
-            
-            016 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Nco}I (187)" "@N (@S)" 5 13.5673
-            
-             
-                                          3.48466 0 -10 4.37087 0.949103 #223#) 
-                                    #225=(CScratch 
-                                          (CWidget 2 (1 #6# 2) 1 2 0 0 #144# 639
-            
-             100) 
-                                          (LOGPEN 0 6 10053171) 8 1 4.93055 1.9 
-                                          0.082322 1) 
-                                    #226=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2125373
-            
-            2 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Nco}I (1301)" "@N (@S)" 5 14.077
-            
-            5 
-                                          -1.74233 0 -10 4.79547 0.949103 #225#)
-            
-             
-                                    #227=(CScratch 
-                                          (CWidget 3 (1 #6# 3) 1 2 0 0 #144# 639
-            
-             100) 
-                                          (LOGPEN 0 6 10053171) 8 1 4.31191 1.9 
-                                          0.082322 1) 
-                                    #228=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 3042778
-            
-            0 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Nco}I (1900)" "@N (@S)" 5 14.120
-            
-            1 
-                                          -12.1963 0 -10 4.92035 0.949103 #227#)
-            
-            ) 
-                                   (CObjectList)) 
-                             #229=(CGroupWidget 
-                                   (CWidget 4 (10 #7# 0) 1 2 0 0 Nil -1225 100) 
-                                   (CObjectList 
-                                    #230=(CScratch 
-                                          (CWidget 1 (1 #7# 1) 1 2 0 0 #144# 220
-            
-            90916 
-                                           100) (LOGPEN 0 6 10053171) 8 1 6.2669
-            
-            9 1.9 
-                                          0.082322 1) 
-                                    #231=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2220003
-            
-            6 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Pst}I (7)" "@N (@S)" 5 2.74744 1
-            
-            9.1656 
-                                          0 -10 3.04712 0.949103 #230#) 
-                                    #232=(CScratch 
-                                          (CWidget 2 (1 #7# 2) 1 2 0 0 #144# 220
-            
-            20268 
-                                           100) (LOGPEN 0 6 10053171) 8 1 5.0493
-            
-            3 1.9 
-                                          0.082322 1) 
-                                    #233=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2135843
-            
-            6 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Pst}I (1186)" "@N (@S)" 5 14.031
-            
-            7 0 0 
-                                          -10 4.37087 0.949103 #232#) 
-                                    #234=(CScratch 
-                                          (CWidget 3 (1 #7# 3) 1 2 0 0 #144# 393
-            
-            221 100) 
-                                          (LOGPEN 0 6 10053171) 8 1 4.39247 1.9 
-                                          0.082322 1) 
-                                    #235=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 393238 
-            100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Pst}I (1822)" "@N (@S)" 5 13.986
-            
-            8 
-                                          -8.71165 0 -10 4.42082 0.949103 #234#)
-            
-             
-                                    #236=(CScratch 
-                                          (CWidget 4 (1 #7# 4) 1 2 0 0 #144# 220
-            
-            96188 
-                                           100) (LOGPEN 0 6 10053171) 8 1 2.6842
-            
-            3 1.9 
-                                          0.082322 1) 
-                                    #237=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 3078225
-            
-            2 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Pst}I (3476)" "@N (@S)" 5 -13.69
-            
-            8 
-                                          -3.48466 0 -10 4.5457 0.949103 #236#))
-            
-             
-                                   (CObjectList)) 
-                             #238=(CGroupWidget 
-                                   (CWidget 4 (10 #8# 0) 1 2 0 0 Nil -1434 100) 
-                                   (CObjectList 
-                                    #239=(CScratch 
-                                          (CWidget 1 (1 #8# 1) 1 2 0 0 #144# 406
-            
-            3688 
-                                           100) (LOGPEN 0 6 10053171) 8 1 6.2298
-            
-            1 1.9 
-                                          0.082322 1) 
-                                    #240=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2128845
-            
-            2 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Sma}I (43)" "@N (@S)" 5 3.4807 1
-            
-            3.9386 
-                                          0 -10 3.99622 0.949103 #239#) 
-                                    #241=(CScratch 
-                                          (CWidget 2 (1 #8# 2) 1 2 0 0 #144# 217
-            
-            70460 
-                                           100) (LOGPEN 0 6 10053171) 8 1 6.2184
-            
-            5 1.9 
-                                          0.082322 1) 
-                                    #242=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2147811
-            
-            6 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Sma}I (54)" "@N (@S)" 5 10.6619 
-            8.71165 
-                                          0 -10 3.99622 0.949103 #241#) 
-                                    #243=(CScratch 
-                                          (CWidget 3 (1 #8# 3) 1 2 0 0 #144# 220
-            
-            48296 
-                                           100) (LOGPEN 0 6 10053171) 8 1 2.7369
-            
-             1.9 
-                                          0.082322 1) 
-                                    #244=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 4063824
-            
-             100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Sma}I (3425)" "@N (@S)" 5 -8.886
-            
-            63 
-                                          -10.454 0 -10 4.99528 0.949103 #243#) 
-                                    #245=(CScratch 
-                                          (CWidget 4 (1 #8# 4) 1 2 0 0 #144# 410
-            
-            7272 
-                                           100) (LOGPEN 0 6 10053171) 8 1 2.7255
-            
-            4 1.9 
-                                          0.082322 1) 
-                                    #246=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 3012530
-            
-            0 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Sma}I (3436)" "@N (@S)" 5 -13.38
-            
-            74 
-                                          -5.22699 0 -10 4.99528 0.949103 #245#)
-            
-            ) 
-                                   (CObjectList)) 
-                             #247=(CGroupWidget 
-                                   (CWidget 4 (10 #9# 0) 1 2 0 0 Nil -387 100) 
-                                   (CObjectList 
-                                    #248=(CScratch 
-                                          (CWidget 1 (1 #9# 1) 1 2 0 0 #144# 219
-            
-            35948 
-                                           100) (LOGPEN 0 6 10053171) 8 1 6.2318
-            
-            7 1.9 
-                                          0.082322 1) 
-                                    #249=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2147948
-            
-            4 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Xma}I (41)" "@N (@S)" 5 3.63854 
-            17.4233 
-                                          0 -10 4.04618 0.949103 #248#) 
-                                    #250=(CScratch 
-                                          (CWidget 2 (1 #9# 2) 1 2 0 0 #144# 305
-            
-            32556 
-                                           100) (LOGPEN 0 6 10053171) 8 1 6.2205
-            
-            1 1.9 
-                                          0.082322 1) 
-                                    #251=(CLabel (CWidget 0 (0 0) 1 2 0 0 #136# 
-            0 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Xma}I (52)" "@N (@S)" 5 3.5371 1
-            
-            2.1963 
-                                          0 -10 4.12111 0.949103 #250#) 
-                                    #252=(CScratch 
-                                          (CWidget 3 (1 #9# 3) 1 2 0 0 #144# 221
-            
-            65400 
-                                           100) (LOGPEN 0 6 10053171) 8 1 2.7389
-            
-            7 1.9 
-                                          0.082322 1) 
-                                    #253=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 4063864
-            
-             100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Xma}I (3423)" "@N (@S)" 5 -8.048
-            
-            27 
-                                          -13.9386 0 -10 5.12016 0.949103 #252#)
-            
-             
-                                    #254=(CScratch 
-                                          (CWidget 4 (1 #9# 4) 1 2 0 0 #144# 310
-            
-            62064 
-                                           100) (LOGPEN 0 6 10053171) 8 1 2.7276
-            
-            1 1.9 
-                                          0.082322 1) 
-                                    #255=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2119987
-            
-            6 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Xma}I (3434)" "@N (@S)" 5 -11.17
-            
-            59 
-                                          -8.71165 0 -10 5.12016 0.949103 #254#)
-            
-            ) 
-                                   (CObjectList)) 
-                             #256=(CGroupWidget 
-                                   (CWidget 5 (10 #0# 0) 1 2 0 0 Nil -457 100) 
-                                   (CObjectList 
-                                    #257=(CScratch 
-                                          (CWidget 1 (1 #0# 1) 1 2 0 0 #144# 211
-            
-            89516 
-                                           100) (LOGPEN 0 6 10053171) 8 1 4.6971
-            
-            4 1.9 
-                                          0.082322 1) 
-                                    #258=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2136350
-            
-            0 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Apa}LI (1527)" "@N (@S)" 5 14.67
-            
-            4 
-                                          -5.22699 0 -10 5.41988 0.949103 #257#)
-            
-             
-                                    #259=(CScratch 
-                                          (CWidget 2 (1 #0# 2) 1 2 0 0 #144# 220
-            
-            31292 
-                                           100) (LOGPEN 0 6 10053171) 8 1 3.7841
-            
-            5 1.9 
-                                          0.082322 1) 
-                                    #260=(CLabel (CWidget 0 (0 0) 1 2 0 0 #136# 
-            0 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Apa}LI (2411)" "@N (@S)" 5 10.79
-            
-            36 
-                                          -20.908 0 -10 5.295 0.949103 #259#) 
-                                    #261=(CScratch 
-                                          (CWidget 3 (1 #0# 3) 1 2 0 0 #144# 218
-            
-            17452 
-                                           100) (LOGPEN 0 6 10053171) 8 1 2.1296
-            
-            2 1.9 
-                                          0.082322 1) 
-                                    #262=(CLabel (CWidget 0 (0 0) 1 2 0 0 #136# 
-            0 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Apa}LI (4013)" "@N (@S)" 5 -14.4
-            
-            085 
-                                          1.74233 0 -10 5.41988 0.949103 #261#) 
-                                    #263=(CScratch 
-                                          (CWidget 4 (1 #0# 4) 1 2 0 0 #144# 220
-            
-            97988 
-                                           100) (LOGPEN 0 6 10053171) 8 1 1.6163
-            
-            2 1.9 
-                                          0.082322 1) 
-                                    #264=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 4063784
-            
-             100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Apa}LI (4510)" "@N (@S)" 5 -14.5
-            
-            958 
-                                          3.48466 0 -10 5.41988 0.949103 #263#) 
-                                    #265=(CScratch 
-                                          (CWidget 5 (1 #0# 5) 1 2 0 0 #144# 220
-            
-            97572 
-                                           100) (LOGPEN 0 6 10053171) 8 1 0.3294
-            
-            61 1.9 
-                                          0.082322 1) 
-                                    #266=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2220164
-            
-            4 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Apa}LI (5756)" "@N (@S)" 5 -7.18
-            
-            429 
-                                          12.1963 0 -10 5.46983 0.949103 #265#))
-            
-             
-                                   (CObjectList)) 
-                             #267=(CGroupWidget 
-                                   (CWidget 9 (10 #1# 0) 1 2 0 0 Nil -248 100) 
-                                   (CObjectList 
-                                    #268=(CScratch 
-                                          (CWidget 1 (1 #1# 1) 1 2 0 0 #144# 406
-            
-            3688 
-                                           100) (LOGPEN 0 6 10053171) 8 1 6.2318
-            
-            7 1.9 
-                                          0.082322 1) 
-                                    #269=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2126436
-            
-            4 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Ava}I (41)" "@N (@S)" 5 3.39277 
-            15.681 
-                                          0 -10 3.84637 0.949103 #268#) 
-                                    #270=(CScratch 
-                                          (CWidget 2 (1 #1# 2) 1 2 0 0 #144# 708
-            
-             100) 
-                                          (LOGPEN 0 6 10053171) 8 1 6.22051 1.9 
-                                          0.082322 1) 
-                                    #271=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2207586
-            
-            0 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Ava}I (52)" "@N (@S)" 5 8.32038 
-            10.454 
-                                          0 -10 3.92129 0.949103 #270#) 
-                                    #272=(CScratch 
-                                          (CWidget 3 (1 #1# 3) 1 2 0 0 #144# 217
-            
-            66300 
-                                           100) (LOGPEN 0 6 10053171) 8 1 4.4740
-            
-            6 1.9 
-                                          0.082322 1) 
-                                    #273=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2158639
-            
-            6 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Ava}I (1743)" "@N (@S)" 5 14.212
-            
-            1 
-                                          -6.96932 0 -10 4.92035 0.949103 #272#)
-            
-             
-                                    #274=(CScratch 
-                                          (CWidget 4 (1 #1# 4) 1 2 0 0 #144# 406
-            
-            3688 
-                                           100) (LOGPEN 0 6 10053171) 8 1 4.2757
-            
-            6 1.9 
-                                          0.082322 1) 
-                                    #275=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 4063824
-            
-             100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Ava}I (1935)" "@N (@S)" 5 13.972
-            
-            8 
-                                          -13.9386 0 -10 4.84542 0.949103 #274#)
-            
-             
-                                    #276=(CScratch 
-                                          (CWidget 5 (1 #1# 5) 1 2 0 0 #144# 211
-            
-            87164 
-                                           100) (LOGPEN 0 6 10053171) 8 1 3.3741
-            
-            4 1.9 
-                                          0.082322 1) 
-                                    #277=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2204523
-            
-            6 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Ava}I (2808)" "@N (@S)" 5 6.3104
-            
-            4 
-                                          -26.1349 0 -10 4.9703 0.949103 #276#) 
-                                    #278=(CScratch 
-                                          (CWidget 6 (1 #1# 6) 1 2 0 0 #144# 406
-            
-            3688 
-                                           100) (LOGPEN 0 6 10053171) 8 1 3.0591
-            
-            3 1.9 
-                                          0.082322 1) 
-                                    #279=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2124153
-            
-            2 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Ava}I (3113)" "@N (@S)" 5 -4.202
-            
-            37 
-                                          -17.4233 0 -10 4.79547 0.949103 #278#)
-            
-             
-                                    #280=(CScratch 
-                                          (CWidget 7 (1 #1# 7) 1 2 0 0 #144# 406
-            
-            3648 
-                                           100) (LOGPEN 0 6 10053171) 8 1 2.7389
-            
-            7 1.9 
-                                          0.082322 1) 
-                                    #281=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 4063824
-            
-             100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Ava}I (3423)" "@N (@S)" 5 -7.758
-            
-            33 
-                                          -12.1963 0 -10 4.92035 0.949103 #280#)
-            
-             
-                                    #282=(CScratch 
-                                          (CWidget 8 (1 #1# 8) 1 2 0 0 #144# 639
-            
-             100) 
-                                          (LOGPEN 0 6 10053171) 8 1 2.72761 1.9 
-                                          0.082322 1) 
-                                    #283=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2205737
-            
-            6 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Ava}I (3434)" "@N (@S)" 5 -12.37
-            
-            48 
-                                          -6.96932 0 -10 4.92035 0.949103 #282#)
-            
-             
-                                    #284=(CScratch 
-                                          (CWidget 9 (1 #1# 9) 1 2 0 0 #144# 406
-            
-            3688 
-                                           100) (LOGPEN 0 6 10053171) 8 1 2.2566
-            
-            5 1.9 
-                                          0.082322 1) 
-                                    #285=(CLabel 
-                                          (CWidget 0 (0 0) 1 2 0 0 #136# 2205677
-            
-            6 100) 
-                                          (LOGPEN 0 0 13408563) 1 
-                                          (LOGFONT 38 14 0 0 400 0 0 0 0 3 2 1 1
-            
-            8 
-                                           "Georgia") 1.74233 0.555556 0 
-                                          "{\\i Ava}I (3890)" "@N (@S)" 5 -14.31
-            
-            05 0 0 
-                                          -10 4.9703 0.949103 #284#)) (CObjectLi
-            
-            st))) 
-                            (CObjectList)) 
-                      #286=(CGroupWidget (CWidget 14 (16 0) 1 2 0 0 Nil -1085 10
-            
-            0) 
-                            (CObjectList) (CObjectList)) 
-                      #287=(CGroupWidget (CWidget 12 (0 0) 1 2 0 0 Nil -1294 100
-            
-            ) 
-                            (CObjectList) (CObjectList))) (CObjectList))) 
-              (CSeqView 10 10 (CObjectList) (CObList) 1 (CObList)) (CObList) 173
-            
-            01668 
-              (CStringList) 1077149696 655377 (CObList)))
-FEATURES             Location/Qualifiers
-     misc_feature    1..141
-                     /label="L-ITR"
-     polyA_signal    2819..3297
-                     /label="hGH polyA"
-     misc_feature    3337..3477
-                     /label="R-ITR"
-     rep_origin      3569..3875
-                     /label="f1 Origin"
-     misc_feature    4394..5251
-                     /label="AmpR"
-     rep_origin      5402..6069
-                     /label="pUC ori"
-     misc_feature    2191..2799
-                     /label="WPRE"
-     misc_feature    156..1448
-                     /label="a-CaMKII(1.3)"
-     exon            1469..2176
-                     /label="mCherry"
-ORIGIN
-        1 cctgcaggca gctgcgcgct cgctcgctca ctgaggccgc ccgggcaaag cccgggcgtc 
-       61 gggcgacctt tggtcgcccg gcctcagtga gcgagcgagc gcgcagagag ggagtggcca 
-      121 actccatcac taggggttcc tgcggccgca cgcgtttaac attatggcct taggtcactt 
-      181 catctccatg gggttcttct tctgattttc tagaaaatga gatgggggtg cagagagctt 
-      241 cctcagtgac ctgcccaggg tcacatcaga aatgtcagag ctagaacttg aactcagatt 
-      301 actaatctta aattccatgc cttgggggca tgcaagtacg atatacagaa ggagtgaact 
-      361 cattagggca gatgaccaat gagtttagga aagaagagtc cagggcaggg tacatctaca 
-      421 ccacccgccc agccctgggt gagtccagcc acgttcacct cattatagtt gcctctctcc 
-      481 agtcctacct tgacgggaag cacaagcaga aactgggaca ggagccccag gagaccaaat 
-      541 cttcatggtc cctctgggag gatgggtggg gagagctgtg gcagaggcct caggaggggc 
-      601 cctgctgctc agtggtgaca gataggggtg agaaagcaga cagagtcatt ccgtcagcat 
-      661 tctgggtctg tttggtactt cttctcacgc taaggtggcg gtgtgatatg cacaatggct 
-      721 aaaaagcagg gagagctgga aagaaacaag gacagagaca gaggccaagt caaccagacc 
-      781 aattcccaga ggaagcaaag aaaccattac agagactaca agggggaagg gaaggagaga 
-      841 tgaattagct tcccctgtaa accttagaac ccagctgttg ccagggcaac ggggcaatac 
-      901 ctgtctcttc agaggagatg aagttgccag ggtaactaca tcctgtcttt ctcaaggacc 
-      961 atcccagaat gtggcaccca ctagccgtta ccatagcaac tgcctctttg ccccacttaa 
-     1021 tcccatcccg tctgttaaaa gggccctata gttggaggtg ggggaggtag gaagagcgat 
-     1081 gatcacttgt ggactaagtt tgttcgcatc cccttctcca accccctcag tacatcaccc 
-     1141 tgggggaaca gggtccactt gctcctgggc ccacacagtc ctgcagtatt gtgtatataa 
-     1201 ggccagggca aagaggagca ggttttaaag tgaaaggcag gcaggtgttg gggaggcagt 
-     1261 taccggggca acgggaacag ggcgtttcgg aggtggttgc catggggacc tggatgctga 
-     1321 cgaaggctcg cgaggctgtg agcagccaca gtgccctgct cagaagcccc aagctcgtca 
-     1381 gtcaagccgg ttctccgttt gcactcagga gcacgggcag gcgagtggcc cctagttctg 
-     1441 ggggcagctc tagagcggta ccggatccgt gagcaagggc gaggaggata acatggccat 
-     1501 catcaaggag ttcatgcgct tcaaggtgca catggagggc tccgtgaacg gccacgagtt 
-     1561 cgagatcgag ggcgagggcg agggccgccc ctacgagggc acccagaccg ccaagctgaa 
-     1621 ggtgaccaag ggtggccccc tgcccttcgc ctgggacatc ctgtcccctc agttcatgta 
-     1681 cggctccaag gcctacgtga agcaccccgc cgacatcccc gactacttga agctgtcctt 
-     1741 ccccgagggc ttcaagtggg agcgcgtgat gaacttcgag gacggcggcg tggtgaccgt 
-     1801 gacccaggac tcctccctgc aggacggcga gttcatctac aaggtgaagc tgcgcggcac 
-     1861 caacttcccc tccgacggcc ccgtaatgca gaagaagacc atgggctggg aggcctcctc 
-     1921 cgagcggatg taccccgagg acggcgccct gaagggcgag atcaagcaga ggctgaagct 
-     1981 gaaggacggc ggccactacg acgctgaggt caagaccacc tacaaggcca agaagcccgt 
-     2041 gcagctgccc ggcgcctaca acgtcaacat caagttggac atcacctccc acaacgagga 
-     2101 ctacaccatc gtggaacagt acgaacgcgc cgagggccgc cactccaccg gcggcatgga 
-     2161 cgagctgtac aagtaagaat tcgatatcaa gcttatcgat aatcaacctc tggattacaa 
-     2221 aatttgtgaa agattgactg gtattcttaa ctatgttgct ccttttacgc tatgtggata 
-     2281 cgctgcttta atgcctttgt atcatgctat tgcttcccgt atggctttca ttttctcctc 
-     2341 cttgtataaa tcctggttgc tgtctcttta tgaggagttg tggcccgttg tcaggcaacg 
-     2401 tggcgtggtg tgcactgtgt ttgctgacgc aacccccact ggttggggca ttgccaccac 
-     2461 ctgtcagctc ctttccggga ctttcgcttt ccccctccct attgccacgg cggaactcat 
-     2521 cgccgcctgc cttgcccgct gctggacagg ggctcggctg ttgggcactg acaattccgt 
-     2581 ggtgttgtcg gggaaatcat cgtcctttcc ttggctgctc gcctgtgttg ccacctggat 
-     2641 tctgcgcggg acgtccttct gctacgtccc ttcggccctc aatccagcgg accttccttc 
-     2701 ccgcggcctg ctgccggctc tgcggcctct tccgcgtctt cgccttcgcc ctcagacgag 
-     2761 tcggatctcc ctttgggccg cctccccgca tcgataccga gcgctgctcg agagatctac 
-     2821 gggtggcatc cctgtgaccc ctccccagtg cctctcctgg ccctggaagt tgccactcca 
-     2881 gtgcccacca gccttgtcct aataaaatta agttgcatca ttttgtctga ctaggtgtcc 
-     2941 ttctataata ttatggggtg gaggggggtg gtatggagca aggggcaagt tgggaagaca 
-     3001 acctgtaggg cctgcggggt ctattgggaa ccaagctgga gtgcagtggc acaatcttgg 
-     3061 ctcactgcaa tctccgcctc ctgggttcaa gcgattctcc tgcctcagcc tcccgagttg 
-     3121 ttgggattcc aggcatgcat gaccaggctc agctaatttt tgtttttttg gtagagacgg 
-     3181 ggtttcacca tattggccag gctggtctcc aactcctaat ctcaggtgat ctacccacct 
-     3241 tggcctccca aattgctggg attacaggcg tgaaccactg ctcccttccc tgtccttctg 
-     3301 attttgtagg taaccacgtg cggaccgagc ggccgcagga acccctagtg atggagttgg 
-     3361 ccactccctc tctgcgcgct cgctcgctca ctgaggccgg gcgaccaaag gtcgcccgac 
-     3421 gcccgggctt tgcccgggcg gcctcagtga gcgagcgagc gcgcagctgc ctgcaggggc 
-     3481 gcctgatgcg gtattttctc cttacgcatc tgtgcggtat ttcacaccgc atacgtcaaa 
-     3541 gcaaccatag tacgcgccct gtagcggcgc attaagcgcg gcgggtgtgg tggttacgcg 
-     3601 cagcgtgacc gctacacttg ccagcgccct agcgcccgct cctttcgctt tcttcccttc 
-     3661 ctttctcgcc acgttcgccg gctttccccg tcaagctcta aatcgggggc tccctttagg 
-     3721 gttccgattt agtgctttac ggcacctcga ccccaaaaaa cttgatttgg gtgatggttc 
-     3781 acgtagtggg ccatcgccct gatagacggt ttttcgccct ttgacgttgg agtccacgtt 
-     3841 ctttaatagt ggactcttgt tccaaactgg aacaacactc aaccctatct cgggctattc 
-     3901 ttttgattta taagggattt tgccgatttc ggcctattgg ttaaaaaatg agctgattta 
-     3961 acaaaaattt aacgcgaatt ttaacaaaat attaacgttt acaattttat ggtgcactct 
-     4021 cagtacaatc tgctctgatg ccgcatagtt aagccagccc cgacacccgc caacacccgc 
-     4081 tgacgcgccc tgacgggctt gtctgctccc ggcatccgct tacagacaag ctgtgaccgt 
-     4141 ctccgggagc tgcatgtgtc agaggttttc accgtcatca ccgaaacgcg cgagacgaaa 
-     4201 gggcctcgtg atacgcctat ttttataggt taatgtcatg ataataatgg tttcttagac 
-     4261 gtcaggtggc acttttcggg gaaatgtgcg cggaacccct atttgtttat ttttctaaat 
-     4321 acattcaaat atgtatccgc tcatgagaca ataaccctga taaatgcttc aataatattg 
-     4381 aaaaaggaag agtatgagta ttcaacattt ccgtgtcgcc cttattccct tttttgcggc 
-     4441 attttgcctt cctgtttttg ctcacccaga aacgctggtg aaagtaaaag atgctgaaga 
-     4501 tcagttgggt gcacgagtgg gttacatcga actggatctc aacagcggta agatccttga 
-     4561 gagttttcgc cccgaagaac gttttccaat gatgagcact tttaaagttc tgctatgtgg 
-     4621 cgcggtatta tcccgtattg acgccgggca agagcaactc ggtcgccgca tacactattc 
-     4681 tcagaatgac ttggttgagt actcaccagt cacagaaaag catcttacgg atggcatgac 
-     4741 agtaagagaa ttatgcagtg ctgccataac catgagtgat aacactgcgg ccaacttact 
-     4801 tctgacaacg atcggaggac cgaaggagct aaccgctttt ttgcacaaca tgggggatca 
-     4861 tgtaactcgc cttgatcgtt gggaaccgga gctgaatgaa gccataccaa acgacgagcg 
-     4921 tgacaccacg atgcctgtag caatggcaac aacgttgcgc aaactattaa ctggcgaact 
-     4981 acttactcta gcttcccggc aacaattaat agactggatg gaggcggata aagttgcagg 
-     5041 accacttctg cgctcggccc ttccggctgg ctggtttatt gctgataaat ctggagccgg 
-     5101 tgagcgtggg tctcgcggta tcattgcagc actggggcca gatggtaagc cctcccgtat 
-     5161 cgtagttatc tacacgacgg ggagtcaggc aactatggat gaacgaaata gacagatcgc 
-     5221 tgagataggt gcctcactga ttaagcattg gtaactgtca gaccaagttt actcatatat 
-     5281 actttagatt gatttaaaac ttcattttta atttaaaagg atctaggtga agatcctttt 
-     5341 tgataatctc atgaccaaaa tcccttaacg tgagttttcg ttccactgag cgtcagaccc 
-     5401 cgtagaaaag atcaaaggat cttcttgaga tccttttttt ctgcgcgtaa tctgctgctt 
-     5461 gcaaacaaaa aaaccaccgc taccagcggt ggtttgtttg ccggatcaag agctaccaac 
-     5521 tctttttccg aaggtaactg gcttcagcag agcgcagata ccaaatactg tccttctagt 
-     5581 gtagccgtag ttaggccacc acttcaagaa ctctgtagca ccgcctacat acctcgctct 
-     5641 gctaatcctg ttaccagtgg ctgctgccag tggcgataag tcgtgtctta ccgggttgga 
-     5701 ctcaagacga tagttaccgg ataaggcgca gcggtcgggc tgaacggggg gttcgtgcac 
-     5761 acagcccagc ttggagcgaa cgacctacac cgaactgaga tacctacagc gtgagctatg 
-     5821 agaaagcgcc acgcttcccg aagggagaaa ggcggacagg tatccggtaa gcggcagggt 
-     5881 cggaacagga gagcgcacga gggagcttcc agggggaaac gcctggtatc tttatagtcc 
-     5941 tgtcgggttt cgccacctct gacttgagcg tcgatttttg tgatgctcgt caggggggcg 
-     6001 gagcctatgg aaaaacgcca gcaacgcggc ctttttacgg ttcctggcct tttgctggcc 
-     6061 ttttgctcac atgt 
-//
